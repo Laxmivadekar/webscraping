@@ -1,0 +1,26 @@
+{
+    "Moviename": "Toy Story 3",
+    "Movieurl": "https://www.rottentomatoes.com/m/toy_story_3",
+    "Rating": "G",
+    "Genre": [
+        "Fantasy,",
+        "Animation,",
+        "Kids",
+        "&",
+        "family,",
+        "Adventure,",
+        "Comedy"
+    ],
+    "Language": [
+        "English"
+    ],
+    "Director": [
+        "LeeUnkrich"
+    ],
+    "Producer": [
+        "Darla",
+        "K.",
+        "Anderson"
+    ],
+    "Runtime": 102
+}
